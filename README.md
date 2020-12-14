@@ -6,7 +6,7 @@ Tasks / Rubric (100 points)
 
 2) Write a 2 page (excluding pictures) summary of what architectural improvements, if any, the authors have assumed on top the ResNet-xyz V1 architecture and why (20 points)
 
-- Refer to
+- Refer to [CS677_PAULAG_ResNet_V2.pdf](https://github.com/paul-data-science/CS677_Midterm_BiT/blob/main/CS677_PAULAG_ResNet_V2.pdf)
 
 3) Write a 4 page (excluding figures) summary of the key points that need to be made so a non-expert can understand the differences between GN, WS and BN. The top 3 comparisons will make it to my class notes with attribution. (30 points)
 
