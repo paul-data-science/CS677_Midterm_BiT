@@ -48,4 +48,4 @@ Showing 6th run because it gave higher test acc than original BiT research paper
 
 **Conclusion:**
 - It seems the test accuracies shown above seem to behave similar to Fig 6 with ImageNet upstream dataset
-and CIFAR10 downstream dataset of 5 examples (CIFAR-10) chart compared to our 1-10 examples per class (low-data regime).
+and CIFAR10 downstream dataset of 5 examples (CIFAR-10) chart illustrated on Big Transfer research paper.
