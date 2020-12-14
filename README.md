@@ -18,13 +18,13 @@ Tasks / Rubric (100 points)
 
 5) Explain all models that are used in producing performance results (eg RetinaNet) (10 points)
 
-- 
+- Refer to [CS677_PAULAG_RetinaNet.pdf](https://github.com/paul-data-science/CS677_Midterm_BiT/blob/main/CS677_PAULAG_RetinaNet.pdf)
 
 Extra Points (20 points)
 Apply the Big Transfer technique from this repo in CIFAR10 downstream dataset for 1-10 examples per class (low-data regime). 
 Match the behavior of Fig 6 for one upstream dataset of your choice and ResNet50-x3 architecture (20 points).
 
-Also refer to (Colabs folder)[https://github.com/paul-data-science/CS677_Midterm_BiT/tree/main/colab]
+Also refer to [Colabs folder](https://github.com/paul-data-science/CS677_Midterm_BiT/tree/main/colab)
 
 Modifications and then Observations:
 On Original pytorch_BiT nb from the BiT repo (https://github.com/google-research/big_transfer/blob/master/colabs/big_transfer_pytorch.ipynb):
